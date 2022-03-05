@@ -10,4 +10,4 @@ with payments as (
     from raw.stripe.payment
 )
 
-select * from payment
+select * from payments
